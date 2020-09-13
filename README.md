@@ -16,4 +16,5 @@ pip install moviepy
 pip install SpeechRecognition
 
 Note : place the video file which you want to convert inside the director where the python code in present or mention the file directory in (absolute path) in 
-clip = mp.VideoFileClip()
+clip = mp.VideoFileClip().
+Place the video file which contains only speech in it.
